@@ -1,61 +1,80 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=zhanel%20garifullina&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=ai%20developer%20%C2%B7%20nlp%20%C2%B7%20llm%20researcher&descAlignY=70&descSize=16&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,FFD1DC,FF69B4,FFC0CB&height=220&section=header&text=✦%20·˚%20こんにちは%20˚·%20✦&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=⋆｡°✩%20welcome%20to%20my%20little%20corner%20of%20the%20internet%20✩°｡⋆&descAlignY=65&descSize=18&descColor=fff0f6"/>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=%E2%9C%A8+im+playing+videogames+%E2%9C%A8;%F0%9F%8C%B8+kpop+%26+jpop+forever+%F0%9F%8C%B8;%F0%9F%8E%80+coding+with+kawaii+energy+%F0%9F%8E%80;%F0%9F%8D%A1+y2k+vibes+only+%F0%9F%8D%A1;%F0%9F%92%95+arigatou+for+visiting+%F0%9F%92%95" alt="Typing SVG" />
+<br>
+·˚ ༘ ✦ ─────────────────────────────────────────────── ✦ ༘ ˚·
 </div>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=17&pause=1500&color=F472B6&center=true&vCenter=true&width=520&lines=MSc+Artificial+Intelligence+%40+Aberdeen+%F0%9F%8C%B8;building+things+with+language+models;NLP+%C2%B7+LLMs+%C2%B7+ML+research" />
-</div>
-<br/>
-<table>
+<br>
+<table align="center">
 <tr>
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="cat coding"/>
+<td valign="top" width="45%">
+<div align="center">
+🎀 ～ about me ～ 🎀
+</div>
+✿  mood    › happy! (◕‿◕✿)
+✿  status  › always online~
+✿  sign    › ☆ pisces moon ☆
+✿  loves   › kpop & kawaii things
+✿  dream   › visit harajuku 🗼
+✿  snack   › ramen & mochi 🍡
+<br>
+<div align="center">
+˚ ༘♡ ⋆｡˚ currently obsessed with
+🎵   listening to kpop on repeat
+🎮   grinding videogames
+🌸   learning japanese
+💻   building cute stuff
+</div>
 </td>
-<td valign="top">
-
-🎀🦇 I'm an AI developer and researcher with a background in software engineering and machine learning. I studied Informatics Systems at Vytautas Magnus University in Lithuania, then moved to Scotland for an MSc in Artificial Intelligence at the University of Aberdeen.
-I focus on how language models understand text — evaluating them, building interpretable NLP systems, and making AI genuinely useful.
-interests ✨
-nlp · llm evaluation · alignment · rag · responsible ai
+<td width="10%"></td>
+<td valign="top" width="45%">
+<div align="center">
+💕 ～ interests ～ 💕
+</div>
+   🎵musickpop · jpop · trance · techno🎮gamesfighting · speedrun · retro📺watchanime · k-drama · musicals🍡foodramen · boba · mochi · pocky🌸styley2k · harajuku · fairy kei💖vibeskawaii · pastel · sparkly ✨
+<br>
+<div align="center">
+Show Image
+</div>
 </td>
 </tr>
 </table>
-<br/>
-
-currently 🔭
-→   MSc thesis research in AI at the University of Aberdeen
-→   exploring LLM evaluation and prompt engineering
-→   building NLP pipelines for semantic search
-
+<br>
 <div align="center">
-connect 💌
+✧˚ · . ─── ✦ · ꒰ my tech stack ꒱ · ✦ ─── . · ˚✧
 Show Image
- 
 Show Image
- 
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 Show Image
 </div>
-
-contributions 📈
+<br>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhanaina&color=f472b6&line=f472b6&point=be185d&bg_color=1a0515&hide_border=true&radius=6" width="100%"/>
-</div>
-
-tech stack 🛠️
-<div align="center">
-Show Image
-</div>
-
-stats 🌷
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zhanaina&show_icons=true&hide_border=true&bg_color=fff0f6&title_color=be185d&icon_color=f472b6&text_color=9d174d&ring_color=f9a8d4" height="155"/>
+✧˚ · . ─── ✦ · ꒰ github stats ꒱ · ✦ ─── . · ˚✧
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=&bg_color=FFF0F6&title_color=FF69B4&text_color=db7093&icon_color=ff69b4&border_color=FFB6C1&border_radius=15" />
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=zhanaina&hide_border=true&background=fff0f6&ring=f472b6&fire=be185d&currStreakLabel=be185d&sideLabels=9d174d&dates=9d174d&stroke=fce7f3" height="155"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=FFF0F6&title_color=FF69B4&text_color=db7093&border_color=FFB6C1&border_radius=15" />
+<br><br>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=&background=FFF0F6&border=FFB6C1&stroke=FFD1DC&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=db7093&dates=db7093&currStreakNum=FF1493&sideNums=FF1493&border_radius=15" height="165"/>
 </div>
-<br/>
+<br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=zhanaina&color=f9a8d4&style=flat-square&label=visitors" />
+✧˚ · . ─── ✦ · ꒰ find me ꒱ · ✦ ─── . · ˚✧
+Show Image
+Show Image
+Show Image
+Show Image
 </div>
-<br/>
+<br>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=footer" width="100%"/>
+·˚ ༘ ✦ ─────────────────────────────────────────────── ✦ ༘ ˚·
+ʚ♡ɞ   thanks for visiting my profile!   feel free to say hi~   ʚ♡ɞ
+<br>
+Show Image
+<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,FFD1DC,FF69B4,FFC0CB&height=120&section=footer&animation=fadeIn"/>
 </div>
