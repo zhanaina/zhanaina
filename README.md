@@ -1,57 +1,60 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=140&section=header&text=zhanel%20garifullina&fontSize=36&fontColor=fff&fontAlignY=55&animation=fadeIn" />
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=2000&color=F472B6&center=true&vCenter=true&width=500&lines=MSc+Artificial+Intelligence+%40+Aberdeen;building+things+with+language+models;NLP+%C2%B7+LLMs+%C2%B7+ML+research" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d3b22&height=220&section=header&text=ZHANEL%20GARIFULLINA&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=AI%20DEVELOPER%20%C2%B7%20NLP%20%C2%B7%20LLM%20RESEARCHER&descAlignY=70&descSize=16&descColor=00e676" width="100%"/>
 </div>
-<br/>
-player    →  zhanel garifullina
-location  →  aberdeen, uk
-degree    →  msc artificial intelligence
-prev      →  bsc informatics systems, vytautas magnus university
-focus     →  nlp · large language models · ml research
-status    →  open to opportunities
-<br/>
-about
-I'm a software and AI developer interested in how machines understand and generate language. My background spans software engineering (BSc, Lithuania) and AI research (MSc, Scotland) — I like being at the edge where both meet.
-I care about building systems that are thoughtful, interpretable, and genuinely useful — not just impressive demos.
-<br/>
-currently
-
-researching LLM evaluation and alignment for my MSc thesis
-building NLP pipelines for text classification and semantic search
-exploring prompt engineering and RAG architectures
-
-<br/>
-interests
-python{
-  "nlp"          : ["text classification", "semantic search", "tokenization"],
-  "llms"         : ["evaluation", "alignment", "prompt engineering", "RAG"],
-  "ml"           : ["supervised learning", "explainability", "bias detection"],
-  "broader"      : ["responsible AI", "human-centered systems"]
-}
-<br/>
-stack
 <div align="center">
 Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+  
 Show Image
 </div>
 <br/>
+<table>
+<tr>
+<td width="42%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+</td>
+<td valign="top">
+Who Am I?
+I'm an AI developer and researcher with a background in software engineering and machine learning. I studied Informatics Systems at Vytautas Magnus University in Lithuania, then moved to Scotland to pursue an MSc in Artificial Intelligence at the University of Aberdeen.
+My work focuses on how language models understand and generate text — evaluating them, aligning them, and building NLP systems that are interpretable and actually useful in practice.
+I believe great AI isn't just about accuracy. It's about building systems people can trust.
+</td>
+</tr>
+</table>
+<br/>
+
+<div align="center">
+you can click here
+<br/>
+Show Image
+ 
+Show Image
+ 
+Show Image
+</div>
+
+
+⚡ Note
+Code is never finished — it only gets closer to what you meant.
+What you see here is built with curiosity, research, and a love for language.
+
+
+my contributions
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhanaina&theme=react-dark&color=00e676&line=00e676&point=00e676&bg_color=0d1117&hide_border=true&radius=6" width="100%"/>
+</div>
+
+my tech stack
+<div align="center">
+Show Image
+</div>
+
 stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zhanaina&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=F472B6&icon_color=c084fc&text_color=e2c4f0&ring_color=F472B6" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zhanaina&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676&text_color=ffffff" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanaina&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=F472B6&text_color=e2c4f0" height="155"/>
+<img src="https://streak-stats.demolab.com?user=zhanaina&theme=dark&hide_border=true&background=0d1117&ring=00e676&fire=00e676&currStreakLabel=00e676&sideLabels=00e676" height="160"/>
 </div>
 <br/>
-connect
 <div align="center">
-Show Image
-Show Image
-Show Image
-<br/>
-<img src="https://komarev.com/ghpvc/?username=zhanaina&color=c084fc&style=flat-square&label=visitors" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d3b22&height=80&section=footer" width="100%"/>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=footer" />
