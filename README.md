@@ -30,9 +30,9 @@
 ✿  degree  ›  MSc Artificial Intelligence
 ✿  uni     ›  University of Aberdeen, UK
 ✿  role    ›  Digital Learning & AI Intern
-✿  based   ›  Aberdeen, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-✿  from    ›  Kazakhstan 🇰🇿 · Lithuania 🇱🇹
-✿  loves   ›  AI tools & building things 💻
+✿  based   ›  Aberdeen, Scotland
+✿  from    ›  Kazakhstan · Lithuania
+✿  loves   ›  AI tools & building things
 ```
 
 <br>
