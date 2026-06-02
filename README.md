@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### 🎀🦇 ～ about me ～ 🎀🦇
+### 🦇 ～ About me ～ 🦇
 
 </div>
 
@@ -41,10 +41,10 @@
 
 **˚ ༘♡ currently**
 
-💼 &nbsp; AI & Digital Learning Intern @ Aberdeen  
-🎓 &nbsp; studying MSc Artificial Intelligence  
-🤖 &nbsp; building training resources with AI  
-🌸 &nbsp; developing educational games in JS
+🦇 &nbsp; AI & Digital Learning Intern @ Aberdeen  
+🦇 &nbsp; studying MSc Artificial Intelligence  
+🦇 &nbsp; building training resources with AI  
+🦇 &nbsp; developing educational games in JS
 
 </div>
 
@@ -54,15 +54,15 @@
 
 <div align="center">
 
-### 💕 ～ education ～ 💕
+###  Education
 
 </div>
 
 | &nbsp; | &nbsp; |
 |:---:|:---|
-| 🎓 | **MSc Artificial Intelligence** |
+| 🦇 | **MSc Artificial Intelligence** |
 | &nbsp; | University of Aberdeen · 2025–2026 |
-| 🌸 | **BSc Computing (Informatics Systems)** |
+| 🦇 | **BSc Computing (Informatics Systems)** |
 | &nbsp; | Vytautas Magnus University · 2019–2023 |
 
 <br>
@@ -75,11 +75,11 @@
 
 | &nbsp; | &nbsp; |
 |:---:|:---|
-| 🧠 | Machine Learning & Computer Vision |
-| 🤖 | Generative AI & LLM Applications |
-| 📊 | Data Visualisation & Pipelines |
+| 🦇 | Machine Learning & Computer Vision |
+| 🦇 | Generative AI & LLM Applications |
+| 🦇 | Data Visualisation & Pipelines |
 | 🎮 | Interactive Web Applications |
-| 📚 | AI Education & Training Design |
+| 🦇 | AI Education & Training Design |
 
 </td>
 </tr>
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-### 💅 ～ tech stack ～ 💅
+### Tech stack
 
 **Languages**
 
@@ -126,7 +126,7 @@
 
 <div align="center">
 
-### 🌸 ～ featured projects ～ 🌸
+### Featured projects
 
 </div>
 
@@ -136,7 +136,7 @@
 
 <div align="center">
 
-### 🧠 Human Activity Recognition
+### Human Activity Recognition
 
 `Python` `PyTorch` `MS COCO`
 
@@ -150,7 +150,7 @@ Built and compared **supervised** and **self-supervised** image classifiers for 
 
 <div align="center">
 
-### 🗺️ QALAM 1937
+### QALAM 1937
 
 `JavaScript` `Prolog`
 
@@ -164,7 +164,7 @@ Interactive browser-based app presenting **Kazakhstan's history in 1937**. Spati
 
 <div align="center">
 
-### 📊 FinNarrate
+### FinNarrate
 
 `Python` `FastAPI` `Next.js` `PostgreSQL`
 
@@ -180,7 +180,7 @@ Real-time **financial data visualisation** dashboard with AI-generated analytica
 
 <div align="center">
 
-### 📈 ～ github stats ～ 📈
+### Github stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=zhanaina&show_icons=true&bg_color=FFF0F6&title_color=FF69B4&text_color=db7093&icon_color=ff69b4&border_color=FFB6C1&border_radius=15" />
 &nbsp;
