@@ -39,7 +39,7 @@
 
 <div align="center">
 
-**˚ ༘♡ currently**
+**˚ ༘♡ Currently**
 
 🦇 &nbsp; AI & Digital Learning Intern @ Aberdeen  
 🦇 &nbsp; studying MSc Artificial Intelligence  
