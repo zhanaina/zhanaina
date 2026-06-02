@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="header.svg" alt="Zhanel Garifullina"/>
+<img width="100%" src="header (1).svg" alt="Zhanel Garifullina"/>
 
 <br>
 
