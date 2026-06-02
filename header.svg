@@ -1,0 +1,60 @@
+<svg viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFB6C1"/>
+      <stop offset="45%" stop-color="#FF85C1"/>
+      <stop offset="100%" stop-color="#FF69B4"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#grad)"/>
+
+  <!-- Wave layers -->
+  <path d="M0,155 C180,132 360,165 540,148 C720,131 900,158 1080,142 C1140,136 1175,148 1200,140 L1200,200 L0,200 Z" fill="rgba(255,255,255,0.10)"/>
+  <path d="M0,168 C240,148 480,175 720,160 C870,150 1020,170 1200,156 L1200,200 L0,200 Z" fill="rgba(255,255,255,0.15)"/>
+  <path d="M0,183 C300,166 600,186 900,173 C1050,166 1130,178 1200,172 L1200,200 L0,200 Z" fill="rgba(255,255,255,0.10)"/>
+
+  <!-- Sparkle dots -->
+  <circle cx="62" cy="42" r="5" fill="rgba(255,255,255,0.65)"/>
+  <circle cx="98" cy="22" r="3" fill="rgba(255,255,255,0.50)"/>
+  <circle cx="168" cy="54" r="4" fill="rgba(255,255,255,0.55)"/>
+  <circle cx="285" cy="18" r="3" fill="rgba(255,255,255,0.45)"/>
+  <circle cx="415" cy="33" r="2.5" fill="rgba(255,255,255,0.50)"/>
+  <circle cx="792" cy="22" r="3" fill="rgba(255,255,255,0.50)"/>
+  <circle cx="925" cy="44" r="4" fill="rgba(255,255,255,0.55)"/>
+  <circle cx="1040" cy="20" r="3" fill="rgba(255,255,255,0.45)"/>
+  <circle cx="1112" cy="48" r="5" fill="rgba(255,255,255,0.65)"/>
+  <circle cx="1158" cy="25" r="3" fill="rgba(255,255,255,0.50)"/>
+
+  <!-- Diamond sparkles -->
+  <path d="M600,13 L604.5,24 L616,28.5 L604.5,33 L600,44 L595.5,33 L584,28.5 L595.5,24 Z" fill="rgba(255,255,255,0.75)"/>
+  <path d="M242,58 L244,64 L250,66 L244,68 L242,74 L240,68 L234,66 L240,64 Z" fill="rgba(255,255,255,0.60)"/>
+  <path d="M958,53 L960,59 L966,61 L960,63 L958,69 L956,63 L950,61 L956,59 Z" fill="rgba(255,255,255,0.60)"/>
+
+  <!-- Main title -->
+  <text x="600" y="88"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="48"
+        font-weight="700"
+        fill="white"
+        text-anchor="middle"
+        letter-spacing="4"
+        filter="url(#glow)">Zhanel Garifullina</text>
+
+  <!-- Decorative line -->
+  <line x1="352" y1="108" x2="848" y2="108" stroke="rgba(255,255,255,0.55)" stroke-width="1.5"/>
+  <circle cx="345" cy="108" r="3.5" fill="rgba(255,255,255,0.70)"/>
+  <circle cx="855" cy="108" r="3.5" fill="rgba(255,255,255,0.70)"/>
+
+  <!-- Subtitle -->
+  <text x="600" y="140"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="17"
+        fill="#FFE8F2"
+        text-anchor="middle"
+        letter-spacing="2.5">AI &amp; Software Engineer  ·  Lifelong Learner</text>
+</svg>

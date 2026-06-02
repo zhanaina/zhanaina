@@ -1,0 +1,14 @@
+<svg viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF69B4"/>
+      <stop offset="55%" stop-color="#FF85C1"/>
+      <stop offset="100%" stop-color="#FFB6C1"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,40 C200,15 400,55 600,35 C800,15 1000,50 1200,28 L1200,80 L0,80 Z" fill="url(#fgrad)"/>
+  <path d="M0,55 C300,35 600,60 900,45 C1050,37 1130,50 1200,42 L1200,80 L0,80 Z" fill="rgba(255,182,193,0.5)"/>
+  <circle cx="580" cy="25" r="3" fill="rgba(255,255,255,0.6)"/>
+  <circle cx="600" cy="18" r="4.5" fill="rgba(255,255,255,0.7)"/>
+  <circle cx="620" cy="25" r="3" fill="rgba(255,255,255,0.6)"/>
+</svg>
