@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### 🦇 ～ About me ～ 🦇
+### About me
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-### ✨ ～ focus areas ～ ✨
+### Focus areas
 
 </div>
 
