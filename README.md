@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF9DE2,FFD6F6,FFB3DE,FF69B4&height=220&section=header&text=Zhanel%20Garifullina&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%20%26%20Software%20Engineer%20%C2%B7%20Lifelong%20Learner&descAlignY=65&descSize=20&descColor=FFE4EF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FF69B4&height=220&section=header&text=Zhanel%20Garifullina&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%20%26%20Software%20Engineer&descAlignY=65&descSize=20&descColor=FFE4EF"/>
 
 <br>
 
@@ -192,6 +192,6 @@ Real-time **financial data visualisation** dashboard with AI-generated analytica
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF9DE2,FFD6F6,FFB3DE,FF69B4&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FF69B4&height=120&section=footer&animation=fadeIn"/>
 
 </div>
