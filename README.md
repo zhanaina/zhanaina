@@ -1,29 +1,34 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=140&section=header&text=zhanel%20garifullina&fontSize=36&fontColor=fff&fontAlignY=55&animation=fadeIn" />
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header" />
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=28&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=hi%2C+i'm+zhanel+garifullina;ai+developer+%26+ml+researcher;building+things+with+language+models" alt="Typing SVG" />
-<br/>
-Show Image
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=2000&color=F472B6&center=true&vCenter=true&width=500&lines=MSc+Artificial+Intelligence+%40+Aberdeen;building+things+with+language+models;NLP+%C2%B7+LLMs+%C2%B7+ML+research" alt="Typing SVG" />
 </div>
+<br/>
+player    →  zhanel garifullina
+location  →  aberdeen, uk
+degree    →  msc artificial intelligence
+prev      →  bsc informatics systems, vytautas magnus university
+focus     →  nlp · large language models · ml research
+status    →  open to opportunities
+<br/>
+about
+I'm a software and AI developer interested in how machines understand and generate language. My background spans software engineering (BSc, Lithuania) and AI research (MSc, Scotland) — I like being at the edge where both meet.
+I care about building systems that are thoughtful, interpretable, and genuinely useful — not just impressive demos.
+<br/>
+currently
 
-about me
-I'm a software and AI developer with a BSc in Informatics Systems (Vytautas Magnus University, Lithuania) and an MSc in Artificial Intelligence (University of Aberdeen, UK).
-I'm drawn to the intersection of research and practical engineering — particularly how large language models understand, generate, and reason over text. I care about building AI systems that are thoughtful, explainable, and actually useful.
+researching LLM evaluation and alignment for my MSc thesis
+building NLP pipelines for text classification and semantic search
+exploring prompt engineering and RAG architectures
 
-what i'm working on
-
-Exploring LLM evaluation methods and prompt engineering techniques
-Building NLP pipelines for text classification and semantic understanding
-MSc thesis research in AI at the University of Aberdeen
-
-
-research interests
-pythoninterests = [
-    "natural language processing",
-    "large language models & alignment",
-    "machine learning theory",
-    "responsible & explainable AI"
-]
-
+<br/>
+interests
+python{
+  "nlp"          : ["text classification", "semantic search", "tokenization"],
+  "llms"         : ["evaluation", "alignment", "prompt engineering", "RAG"],
+  "ml"           : ["supervised learning", "explainability", "bias detection"],
+  "broader"      : ["responsible AI", "human-centered systems"]
+}
+<br/>
 stack
 <div align="center">
 Show Image
@@ -33,18 +38,20 @@ Show Image
 Show Image
 Show Image
 </div>
-
-github stats
+<br/>
+stats
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zhanaina&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f6&title_color=be185d&icon_color=f472b6&text_color=9d174d&ring_color=f9a8d4" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanaina&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f6&title_color=be185d&text_color=9d174d" />
+<img src="https://github-readme-stats.vercel.app/api?username=zhanaina&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=F472B6&icon_color=c084fc&text_color=e2c4f0&ring_color=F472B6" height="155"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanaina&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=F472B6&text_color=e2c4f0" height="155"/>
 </div>
-
+<br/>
 connect
 <div align="center">
 Show Image
 Show Image
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=zhanaina&color=f9a8d4&style=flat-square&label=visitors" />
+Show Image
+<br/>
+<img src="https://komarev.com/ghpvc/?username=zhanaina&color=c084fc&style=flat-square&label=visitors" />
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=footer" />
