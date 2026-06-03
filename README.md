@@ -42,8 +42,7 @@
 
 🦇 &nbsp; AI & Digital Learning Intern @ UoA  
 🦇 &nbsp; studying MSc Artificial Intelligence  
-🦇 &nbsp; building training resources with AI  
-🦇 &nbsp; developing educational games in JS
+🦇 &nbsp; building training resources with AI 
 
 </div>
 
