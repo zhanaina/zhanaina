@@ -29,10 +29,9 @@
 ✿  name    ›  Zhanel Garifullina
 ✿  degree  ›  MSc Artificial Intelligence
 ✿  uni     ›  University of Aberdeen, UK
-✿  role    ›  Digital Learning & AI Intern
 ✿  based   ›  Aberdeen, Scotland
 ✿  from    ›  Kazakhstan · Lithuania
-✿  loves   ›  AI tools & building things
+✿  loves   ›  AI & building things
 ```
 
 <br>
