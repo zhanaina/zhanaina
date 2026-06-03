@@ -178,12 +178,6 @@ Real-time **financial data visualisation** dashboard with AI-generated analytica
 
 <div align="center">
 
-### Github stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zhanaina&show_icons=true&bg_color=FFF0F6&title_color=FF69B4&text_color=db7093&icon_color=ff69b4&border_color=FFB6C1&border_radius=15" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanaina&layout=compact&bg_color=FFF0F6&title_color=FF69B4&text_color=db7093&border_color=FFB6C1&border_radius=15" />
-
 <br><br>
 
 *ʚ♡ɞ &nbsp; thanks for stopping by — feel free to reach out! &nbsp; ʚ♡ɞ*
