@@ -180,7 +180,7 @@ Real-time **financial data visualisation** dashboard with AI-generated analytica
 
 <br><br>
 
-*ʚ♡ɞ &nbsp; thanks for stopping by — feel free to reach out! &nbsp; ʚ♡ɞ*
+*ʚ♡ɞ &nbsp; thanks for stopping by and feel free to reach out! &nbsp; ʚ♡ɞ*
 
 <br>
 
