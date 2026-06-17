@@ -27,8 +27,6 @@
 
 ```
 ✿  name    ›  Zhanel Garifullina
-✿  degree  ›  MSc Artificial Intelligence
-✿  uni     ›  University of Aberdeen, UK
 ✿  based   ›  Aberdeen, Scotland
 ✿  from    ›  Kazakhstan · Lithuania
 ✿  loves   ›  AI & building things
@@ -74,6 +72,8 @@
 | &nbsp; | &nbsp; |
 |:---:|:---|
 | ✦  | Machine Learning & Computer Vision |
+| ✦  | Reinforcement learning & AI Agents |
+| ✦  | Goal Recognition & Plan Recognition |
 | ✦  | Generative AI & LLM Applications |
 | ✦  | Data Visualisation & Pipelines |
 | ✦  | Interactive Web Applications |
