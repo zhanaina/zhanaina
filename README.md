@@ -16,8 +16,8 @@
 <td valign="top" width="45%">
 
 <div align="center">
-
-### ✦ About me
+  
+**✦ About me**
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-### ✦ Focus areas
+**✦ Focus areas**
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <div align="center">
 
-### ✦ Education
+**✦ Education**
 
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-**˚ ༘✦ Currently**
+**✦ Currently**
 
 ✦ &nbsp; AI & Digital Learning Intern @ UoA  
 ✦ &nbsp; studying MSc Artificial Intelligence  
