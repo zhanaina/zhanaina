@@ -79,9 +79,9 @@
 </tr>
 </table>
 
-### Tech stack
+### tech stack
 
-**Languages**
+**languages**
 
 ![Python](https://img.shields.io/badge/Python-ff6ad5?style=for-the-badge&logo=python&logoColor=00f0ff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF7AD5?style=for-the-badge&logo=javascript&logoColor=00f0ff)
@@ -92,7 +92,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-FF6AD5?style=for-the-badge&logo=css3&logoColor=00f0ff)
 ![Prolog](https://img.shields.io/badge/Prolog-FF7AD5?style=for-the-badge&logoColor=00f0ff)
 
-**Frameworks & Tools**
+**frameworks & tools**
 
 ![React](https://img.shields.io/badge/React-FF6AD5?style=for-the-badge&logo=react&logoColor=00f0ff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-FF7AD5?style=for-the-badge&logo=fastapi&logoColor=00f0ff)
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-### Featured projects
+**featured projects**
 
 </div>
 
@@ -119,7 +119,7 @@
 
 <div align="center">
 
-### Human Activity Recognition
+**Human Activity Recognition**
 
 `Python` `PyTorch` `MS COCO`
 
@@ -133,7 +133,7 @@ Built and compared **supervised** and **self-supervised** image classifiers for 
 
 <div align="center">
 
-### QALAM 1937
+**QALAM 1937**
 
 `JavaScript` `Prolog`
 
@@ -147,7 +147,7 @@ Interactive browser-based app presenting **Kazakhstan's history in 1937**. Spati
 
 <div align="center">
 
-### FinNarrate
+**FinNarrate**
 
 `Python` `FastAPI` `Next.js` `PostgreSQL`
 
