@@ -67,7 +67,7 @@
 
 <div align="center">
 
-### Focus areas
+### ✦ Focus areas
 
 </div>
 
