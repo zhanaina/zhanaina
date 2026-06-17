@@ -91,7 +91,7 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-ff6ad5?style=for-the-badge&logo=python&logoColor=ff6ad5)
+![Python](https://img.shields.io/badge/Python-ff6ad5?style=for-the-badge&logo=python&logoColor=00f0ff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=c2185b)
 ![Java](https://img.shields.io/badge/Java-FADADD?style=for-the-badge&logo=openjdk&logoColor=c2185b)
 ![C++](https://img.shields.io/badge/C%2B%2B-FFC0CB?style=for-the-badge&logo=cplusplus&logoColor=c2185b)
