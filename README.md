@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="header (3).svg" alt="Hii, I'm Zhanel"/>
+<img width="100%" src="header (4).svg" alt="Hii, I'm Zhanel"/>
 
 <br>
 
@@ -177,6 +177,6 @@ Real-time **financial data visualisation** dashboard with AI-generated analytica
 
 <br>
 
-<img width="100%" src="footer.svg" alt="footer"/>
+<img width="100%" src="footer (2).svg" alt="footer"/>
 
 </div>
