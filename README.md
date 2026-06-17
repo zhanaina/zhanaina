@@ -111,13 +111,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-FADADD?style=for-the-badge&logo=pytorch&logoColor=c2185b)
 ![Next.js](https://img.shields.io/badge/Next.js-FFC0CB?style=for-the-badge&logo=nextdotjs&logoColor=c2185b)
 
-**AI Tools**
-
-![Claude](https://img.shields.io/badge/Claude-FFB6C1?style=for-the-badge&logo=anthropic&logoColor=c2185b)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-FFD1DC?style=for-the-badge&logo=openai&logoColor=c2185b)
-![Copilot](https://img.shields.io/badge/MS%20Copilot-FADADD?style=for-the-badge&logo=microsoft&logoColor=c2185b)
-![Gemini](https://img.shields.io/badge/Gemini%20TTS-FFC0CB?style=for-the-badge&logo=google&logoColor=c2185b)
-
 </div>
 
 ---
