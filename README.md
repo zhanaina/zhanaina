@@ -8,8 +8,8 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6AD5?style=for-the-badge&logo=linkedin&logoColor=c2185b)](https://linkedin.com/in/zhanel-garifullina/)
-[![GitHub](https://img.shields.io/badge/GitHub-FF8AD5?style=for-the-badge&logo=github&logoColor=c2185b)](https://github.com/zhanaina)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6AD5?style=for-the-badge&logo=linkedin&logoColor=00f0ff)](https://linkedin.com/in/zhanel-garifullina/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF8AD5?style=for-the-badge&logo=github&logoColor=00f0ff)](https://github.com/zhanaina)
 
 </div>
 
