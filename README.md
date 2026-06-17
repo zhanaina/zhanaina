@@ -38,7 +38,7 @@
 
 <div align="center">
 
-**˚ ༘♡ Currently**
+**˚ ༘✦  Currently**
 
 ✦  &nbsp; AI & Digital Learning Intern @ UoA  
 ✦  &nbsp; studying MSc Artificial Intelligence  
