@@ -26,7 +26,7 @@
 </div>
 
 ```
-✿  name    ›  Zhanel Garifullina
+✿  name    ›  Zhanel
 ✿  based   ›  Aberdeen, Scotland
 ✿  from    ›  Kazakhstan · Lithuania
 ✿  loves   ›  AI & building things
