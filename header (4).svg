@@ -94,7 +94,7 @@
 
   <!-- title -->
   <text x="600" y="105" text-anchor="middle" class="title" font-size="46" font-weight="700" fill="url(#neonText)" filter="url(#softGlow)">
-    Welcome, twin
+    welcome, twin
   </text>
   <text x="600" y="145" text-anchor="middle" class="title" font-size="17" fill="#9a9ab8" letter-spacing="1.5">
     🦇 AI &amp; Software Engineer  ·  MSc AI Student  ·  Ex-teacher
