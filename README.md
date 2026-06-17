@@ -102,7 +102,7 @@
 
 **Frameworks & Tools**
 
-![React](https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=00f0ff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-FFD1DC?style=for-the-badge&logo=fastapi&logoColor=c2185b)
 ![Node.js](https://img.shields.io/badge/Node.js-FADADD?style=for-the-badge&logo=nodedotjs&logoColor=c2185b)
 ![Flask](https://img.shields.io/badge/Flask-FFC0CB?style=for-the-badge&logo=flask&logoColor=c2185b)
