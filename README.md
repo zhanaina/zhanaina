@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### About me
+### ✦ About me
 
 </div>
 
@@ -40,9 +40,9 @@
 
 **˚ ༘♡ Currently**
 
-🦇 &nbsp; AI & Digital Learning Intern @ UoA  
-🦇 &nbsp; studying MSc Artificial Intelligence  
-🦇 &nbsp; building training resources with AI 
+✦  &nbsp; AI & Digital Learning Intern @ UoA  
+✦  &nbsp; studying MSc Artificial Intelligence  
+✦  &nbsp; building training resources with AI 
 
 </div>
 
@@ -52,15 +52,15 @@
 
 <div align="center">
 
-###  Education
+###  ✦ Education
 
 </div>
 
 | &nbsp; | &nbsp; |
 |:---:|:---|
-| 🦇 | **MSc Artificial Intelligence** |
+| ✦  | **MSc Artificial Intelligence** |
 | &nbsp; | University of Aberdeen · 2025–2026 |
-| 🦇 | **BSc Computing (Informatics Systems)** |
+| ✦  | **BSc Computing (Informatics Systems)** |
 | &nbsp; | Vytautas Magnus University · 2019–2023 |
 
 <br>
@@ -73,11 +73,11 @@
 
 | &nbsp; | &nbsp; |
 |:---:|:---|
-| 🦇 | Machine Learning & Computer Vision |
-| 🦇 | Generative AI & LLM Applications |
-| 🦇 | Data Visualisation & Pipelines |
-| 🎮 | Interactive Web Applications |
-| 🦇 | AI Education & Training Design |
+| ✦  | Machine Learning & Computer Vision |
+| ✦  | Generative AI & LLM Applications |
+| ✦  | Data Visualisation & Pipelines |
+| ✦  | Interactive Web Applications |
+| ✦  | AI Education & Training Design |
 
 </td>
 </tr>
