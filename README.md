@@ -103,13 +103,13 @@
 **Frameworks & Tools**
 
 ![React](https://img.shields.io/badge/React-FF6AD5?style=for-the-badge&logo=react&logoColor=00f0ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-FFD1DC?style=for-the-badge&logo=fastapi&logoColor=00f0ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-FF7AD5?style=for-the-badge&logo=fastapi&logoColor=00f0ff)
 ![Node.js](https://img.shields.io/badge/Node.js-FF6AD5?style=for-the-badge&logo=nodedotjs&logoColor=00f0ff)
-![Flask](https://img.shields.io/badge/Flask-FFC0CB?style=for-the-badge&logo=flask&logoColor=00f0ff)
+![Flask](https://img.shields.io/badge/Flask-FF7AD5?style=for-the-badge&logo=flask&logoColor=00f0ff)
 ![Docker](https://img.shields.io/badge/Docker-FF6AD5?style=for-the-badge&logo=docker&logoColor=00f0ff)
-![Git](https://img.shields.io/badge/Git-FFD1DC?style=for-the-badge&logo=git&logoColor=00f0ff)
+![Git](https://img.shields.io/badge/Git-FF7AD5?style=for-the-badge&logo=git&logoColor=00f0ff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-FF6AD5?style=for-the-badge&logo=pytorch&logoColor=00f0ff)
-![Next.js](https://img.shields.io/badge/Next.js-FFC0CB?style=for-the-badge&logo=nextdotjs&logoColor=00f0ff)
+![Next.js](https://img.shields.io/badge/Next.js-FF7AD5?style=for-the-badge&logo=nextdotjs&logoColor=00f0ff)
 
 </div>
 
