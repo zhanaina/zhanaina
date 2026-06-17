@@ -36,12 +36,23 @@
 
 <div align="center">
 
-**˚ ༘✦  Currently**
+### ✦ Focus areas
 
-✦  &nbsp; AI & Digital Learning Intern @ UoA  
-✦  &nbsp; studying MSc Artificial Intelligence  
-✦  &nbsp; building training resources with AI 
+</div>
 
+| &nbsp; | &nbsp; |
+|:---:|:---|
+| ✦  | Machine Learning & Computer Vision |
+| ✦  | Reinforcement learning & AI Agents |
+| ✦  | Goal Recognition & Plan Recognition |
+| ✦  | Generative AI & LLM Applications |
+| ✦  | Data Visualisation & Pipelines |
+| ✦  | Interactive Web Applications |
+| ✦  | AI Education & Training Design |
+
+</td>
+</tr>
+</table>
 </div>
 
 </td>
@@ -65,22 +76,11 @@
 
 <div align="center">
 
-### ✦ Focus areas
+**˚ ༘✦  Currently**
 
-</div>
-
-| &nbsp; | &nbsp; |
-|:---:|:---|
-| ✦  | Machine Learning & Computer Vision |
-| ✦  | Reinforcement learning & AI Agents |
-| ✦  | Goal Recognition & Plan Recognition |
-| ✦  | Generative AI & LLM Applications |
-| ✦  | Data Visualisation & Pipelines |
-| ✦  | Interactive Web Applications |
-| ✦  | AI Education & Training Design |
-
-</td>
-</tr>
+✦  &nbsp; AI & Digital Learning Intern @ UoA  
+✦  &nbsp; studying MSc Artificial Intelligence  
+✦  &nbsp; building training resources with AI 
 </table>
 
 ---
