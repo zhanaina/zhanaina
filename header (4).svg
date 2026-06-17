@@ -1,0 +1,102 @@
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="55%" stop-color="#0d0d16"/>
+      <stop offset="100%" stop-color="#120a18"/>
+    </linearGradient>
+
+    <linearGradient id="neonText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2ec4"/>
+      <stop offset="50%" stop-color="#ff6ad5"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+
+    <radialGradient id="glowPink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff2ec4" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ff2ec4" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.25; }
+        50% { opacity: 1; }
+      }
+      @keyframes drift {
+        0% { transform: translateX(-40px); opacity: 0; }
+        10% { opacity: 1; }
+        90% { opacity: 1; }
+        100% { transform: translateX(1260px); opacity: 0; }
+      }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.5; }
+        50% { opacity: 0.9; }
+      }
+      .star { animation: twinkle 3s ease-in-out infinite; }
+      .comet { animation: drift 7s linear infinite; }
+      .glowBlob { animation: pulseGlow 5s ease-in-out infinite; }
+      text.title { font-family: 'Trebuchet MS', Verdana, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+
+  <!-- ambient glows -->
+  <circle class="glowBlob" cx="160" cy="60" r="140" fill="url(#glowPink)"/>
+  <circle class="glowBlob" cx="1040" cy="170" r="160" fill="url(#glowCyan)" style="animation-delay:1.5s"/>
+
+  <!-- starfield -->
+  <g fill="#ffffff">
+    <circle class="star" cx="60" cy="40" r="1.6" style="animation-delay:0s"/>
+    <circle class="star" cx="140" cy="170" r="1.2" style="animation-delay:0.4s"/>
+    <circle class="star" cx="230" cy="30" r="1.8" style="animation-delay:0.8s"/>
+    <circle class="star" cx="320" cy="120" r="1.3" style="animation-delay:1.2s"/>
+    <circle class="star" cx="410" cy="55" r="1.5" style="animation-delay:0.2s"/>
+    <circle class="star" cx="500" cy="150" r="1.1" style="animation-delay:1.6s"/>
+    <circle class="star" cx="80" cy="190" r="1.4" style="animation-delay:2s"/>
+    <circle class="star" cx="700" cy="35" r="1.7" style="animation-delay:0.6s"/>
+    <circle class="star" cx="780" cy="160" r="1.2" style="animation-delay:1s"/>
+    <circle class="star" cx="860" cy="50" r="1.6" style="animation-delay:1.4s"/>
+    <circle class="star" cx="940" cy="140" r="1.3" style="animation-delay:1.8s"/>
+    <circle class="star" cx="1020" cy="30" r="1.5" style="animation-delay:0.3s"/>
+    <circle class="star" cx="1100" cy="110" r="1.8" style="animation-delay:0.9s"/>
+    <circle class="star" cx="1150" cy="50" r="1.2" style="animation-delay:1.3s"/>
+    <circle class="star" cx="1170" cy="185" r="1.4" style="animation-delay:1.7s"/>
+    <circle class="star" cx="40" cy="120" r="1.3" style="animation-delay:2.2s"/>
+    <circle class="star" cx="600" cy="100" r="1.9" style="animation-delay:0.5s"/>
+    <circle class="star" cx="980" cy="195" r="1.1" style="animation-delay:1.1s"/>
+  </g>
+
+  <!-- drifting comets/sparkles -->
+  <g filter="url(#softGlow)">
+    <g class="comet" style="animation-delay:0s">
+      <circle cx="0" cy="75" r="2.4" fill="#ff6ad5"/>
+      <line x1="0" y1="75" x2="-26" y2="75" stroke="#ff6ad5" stroke-width="1.5" stroke-opacity="0.6"/>
+    </g>
+    <g class="comet" style="animation-delay:3.5s">
+      <circle cx="0" cy="150" r="2" fill="#00f0ff"/>
+      <line x1="0" y1="150" x2="-22" y2="150" stroke="#00f0ff" stroke-width="1.3" stroke-opacity="0.6"/>
+    </g>
+  </g>
+
+  <!-- title -->
+  <text x="600" y="105" text-anchor="middle" class="title" font-size="46" font-weight="700" fill="url(#neonText)" filter="url(#softGlow)">
+    Hii, I'm Zhanel ✦
+  </text>
+  <text x="600" y="145" text-anchor="middle" class="title" font-size="17" fill="#9a9ab8" letter-spacing="1.5">
+    🦇 MSc Artificial Intelligence · building things in the dark with neon edges
+  </text>
+</svg>
